@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/* color varibel */
+
+:root{
+    --red:  #f42625;
+    --white: #ffffff;
+    --black: #000000;
+}
+/* navbar styling */
+#main-logo{
+    width: 165px;
+}
+.nav-list {
+    text-decoration: none;
+    color: white;
+    font-size: 2ren;
+    
+}
+
+
+.al{
+    align-items: center;
+    gap: 50px;
+}
+.logo{
+    margin-top: 20%;
+    padding: 20px;
+    
+}
+.container{
+    width: 100px;
+
+}
+.plr-big{
+    padding: 0% 110px;
+}
+#franchise{
+    cursor: pointer;
+    background-color: red;
+    border:1px solid white;
+    padding: 15px 20px;
+
+    }
+#order-online{
+    cursor: pointer;
+    background-color: red;
+    border:1px solid white;
+    padding: 15px 20px;
+}
+.main_costum_heading_second{
+    
+    font-style: normal;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: ffffff;
+    margin-bottom: 8px;
+}
+
+
+#order-now {
+   cursor: pointer;
+    background-color: red;
+    border:1px solid white;
+    padding: 15px 20px;
+}
+#Reserve-a-table{
+    cursor: pointer;
+    background-color: red;
+    border:1px solid white;
+    padding: 15px 20px;
+
+}
+/* .main{
+    text-align: center;
+}
+.snp-right-side-one{
+    position: absolute;
+    right: 100%;
+    top: 50px;
+
+
+}
+.franchise-home-box-img{
+    text-align: end;
+    position: absolute;
+    right: 100px;
+}
+.cotsum-row pdb{
+    margin-bottom: 48px;
+} */
+/* .col-lg-6{
+    flex: 50%;
+    max-width: 50%;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    margin-right: -15px; */
+    /* margin-left: -15px;
+    flex-wrap: wrap;
+
+}
+.franchise-home-box-content{
+    font-style: normal;
+    font-size: 16px;
+    margin-bottom:8px ;
+    display: block;
+}
+.text */
+.text center{
+    align-items: center;
+}
